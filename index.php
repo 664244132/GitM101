@@ -7,6 +7,6 @@
 </head>
 <body>
     <h1>Hello, Worldห!</h1>
-    <h2>1234</h2>
+    <h2>12</h2>
 </body>
 </html>
